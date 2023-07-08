@@ -1,4 +1,4 @@
-# Mairlist Metadata Meta Grabber
+# Mairlist Metadata Grabber
 
 ---
 
